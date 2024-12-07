@@ -49,6 +49,9 @@
 
 /*Mobile Query*/
 @media only screen and (max-width: 480px) {
+  .marbo{
+      margin-bottom: 30px !important;
+  }
   .owl-carousel.home-slider .slider-item .slider-text .subheading {
     font-size: 12px;
   }
